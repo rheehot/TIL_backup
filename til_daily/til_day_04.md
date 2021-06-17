@@ -1,8 +1,9 @@
 ﻿# Today I Learned [2021. 6. 17. Thur]
 
 2021년 6월 17일 목요일의 배운 내용을 기록한 문서입니다.  
-(Javascript 내용은 바로 밑에 링크를 달아두었고 대신 Achievement Goal을 적어두었습니다 .🙂)
-👉🏻**문서**: 
+(Javascript 내용은 따로 파일에 담아두었고 대신 Achievement Goal을 적어두었습니다 .🙂)
+
+----
 
 ## Achievement Goals
 
