@@ -93,6 +93,7 @@ HTML 배운 내용을 정리했습니다.
 <img width="804" alt="스크린샷 2021-06-18 오전 10 46 30" src="https://user-images.githubusercontent.com/85002287/122505478-63bc5e00-d037-11eb-8e55-015076b9ccf0.png">
 <img width="817" alt="스크린샷 2021-06-18 오전 10 46 36" src="https://user-images.githubusercontent.com/85002287/122505487-6919a880-d037-11eb-8a0a-25248b0a2277.png">
 
+<br>
 
 ### `img` : 이미지 삽입
 ```html
@@ -102,6 +103,10 @@ HTML 배운 내용을 정리했습니다.
 
 <img width="183" alt="스크린샷 2021-06-18 오전 10 50 58" src="https://user-images.githubusercontent.com/85002287/122505533-83538680-d037-11eb-8ef5-1fa8304d7e06.png">
 아쉽지만.. 이미지는 나오질 않았다...
+
+<br>
+<br>
+
 
 ### `a` : 링크 삽입
 ```html
@@ -113,6 +118,8 @@ a는 anchor(닻)의 약자. 하이퍼링크를 표시할 때 쓰임.
 (결과는 아래에!)
 
 <img width="296" alt="스크린샷 2021-06-18 오전 10 51 23" src="https://user-images.githubusercontent.com/85002287/122505573-98c8b080-d037-11eb-8ffb-ed9df8dd1c72.png">
+
+<br>
 
 
 ### `ul,li` : 리스트
@@ -132,6 +139,9 @@ a는 anchor(닻)의 약자. 하이퍼링크를 표시할 때 쓰임.
 (결과는 아래에!)
 
 <img width="515" alt="스크린샷 2021-06-18 오전 11 01 03" src="https://user-images.githubusercontent.com/85002287/122505588-a2eaaf00-d037-11eb-86d4-b6bd6506f945.png">
+
+<br>
+
 
 ### `input, textarea` : 다양한 입력폼
 ```html
@@ -154,6 +164,8 @@ a는 anchor(닻)의 약자. 하이퍼링크를 표시할 때 쓰임.
 <img width="643" alt="스크린샷 2021-06-18 오전 11 02 37" src="https://user-images.githubusercontent.com/85002287/122505630-b4cc5200-d037-11eb-8ba4-fec0a7558b07.png">
 <img width="683" alt="스크린샷 2021-06-18 오전 11 02 56" src="https://user-images.githubusercontent.com/85002287/122505636-b72eac00-d037-11eb-8c4e-4f8acfe7e40e.png">
 
+<br>
+
 
 ### `button` : 버튼
 ```html
@@ -162,6 +174,9 @@ a는 anchor(닻)의 약자. 하이퍼링크를 표시할 때 쓰임.
 (결과는 아래에!)
 
 <img width="535" alt="스크린샷 2021-06-18 오전 11 03 08" src="https://user-images.githubusercontent.com/85002287/122505653-bf86e700-d037-11eb-88c9-bcef5741dc12.png">
+
+<br>
+
 
 
 ### `script` : javascript 실행용
