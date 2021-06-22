@@ -1,12 +1,10 @@
 ﻿# Today I Learned [2021. 6. 22. Tue]
 
 2021년 6월 22일 화요일의 배운 내용을 기록한 문서입니다.  
-(스프린트 내용은 추후 아래에 링크를 추가할 예정 입니다. 대신 Achievement Goal들과 요구사항들을 적어두었습니다 .🙂)
-
-👉🏻**계산기 스프린트** : 
+(스프린트 내용은 추후 따로 파일을 추가할 예정 입니다. 대신 Achievement Goal들과 요구사항들을 적어두었습니다 .🙂)
 
 
----
+<br><br>
 
 
 
@@ -16,7 +14,7 @@
 -   HTML, CSS, JS로 두 숫자의 사칙연산을 할 수 있는 계산기를 만들 수 있다.
 -   Github 웹 GUI를 이용해, Drag & Drop으로 과제를 제출할 수 있다.
 
-
+<br><br>
 
 ## Bare Minimum Requirements
 
@@ -46,6 +44,9 @@
 
 -   미리 작성된 `SpecRunner.html` 파일을 열고, Requirements을 전부 구현했는지 확인 합니다.
 -   무작정 따라하고 과제 제출하기 영상을 참고해서 코드스테이츠 레포지토리로 과제를 제출합니다.
+
+<br><br>
+
 
 ## Advanced Challenges
 
