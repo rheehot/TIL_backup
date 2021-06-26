@@ -1,7 +1,7 @@
 ﻿# Today I Learned [2021. 6. 22. Tue]
 
 2021년 6월 22일 화요일의 배운 내용을 기록한 문서입니다.  
-(스프린트 내용은 추후 따로 파일을 추가할 예정 입니다. 대신 Achievement Goal들과 요구사항들을 적어두었습니다 .🙂)
+(스프린트 내용은 추후 따로 파일을 추가할 예정 입니다. 대신 Achievement Goal들과 Bare Mimimum들을 적어두었습니다 .🙂)
 
 
 <br><br>
@@ -47,39 +47,6 @@
 
 <br><br>
 
-
-## Advanced Challenges
-
-> Advanced Challenges는 여러분이 필수적으로 해야 하는 과제는 아닙니다. 앞서 Bare Minimum Requirements를 달성하고, 시간이 남거나 더 깊은 공부가 필요할 때 도전할 수 있는 과제입니다.
-
-이번 Advanced Challenges는 실제 계산기처럼 display(화면)가 있고, 버튼을 클릭할 때마다 화면의 숫자가 변경되면서 동작합니다. 시중에 판매중인 계산기와 비슷하게 동작하도록 만듭니다.
-
-**Step 1 - Advanced Challenges 테스트 활성화 시키기**
-
--   `spec/script.test.js`, `script.js`, `yourStyle.css` 파일의 주석을 제거하고, Advanced Challenges 테스트가 잘 작동하는지 `SpecRunner.html` 파일을 열고 확인합니다.
--   아래와 같이 `0` 하나만 보이는, 이전과 다른 계산기 모습이 보여야 합니다!
-
-![image](https://s3.ap-northeast-2.amazonaws.com/urclass-images/OHeRLbBCg-1615200901506.png)
-
-[그림] 계산기의 display에 0이 나타납니다.
-
-  
-
-**Step 2 - 숫자 버튼을 누르고 화면에 숫자를 입력하기**
-
--   숫자 버튼을 눌렀을 때, 계산기의 화면에 숫자가 보여야 합니다.
--   숫자 버튼을 여러 번 눌렀을 때, 계산기 화면에 숫자가 이어붙여져야(concatenation) 합니다.
-
-**Step 3 - Enter 버튼을 눌러 계산하고, AC 버튼으로 초기화 시키기**
-
--   연산자 버튼을 눌렀을 때, 계산기 화면에 보이는 숫자를 따로 저장하고 계산할 준비해야 합니다.
--   Enter 버튼을 눌렀을 때, 이전에 저장한 숫자와 계산기 화면에 보이는 숫자를 계산한 결과를 화면에 보여줘야 합니다.
--   두 정수의 사칙연산을 수행하는 calculate 함수를 작성합니다.
--   AC 버튼을 누르면 초기 상태로 돌아갈 수 있어야 합니다.
--   미리 작성된 `SpecRunner.html` 파일을 열고, Requirements을 전부 구현했는지 테스트를 돌려서 확인 합니다.
-
-
-<br><br>
 
 
 > Written with [StackEdit](https://stackedit.io/).
