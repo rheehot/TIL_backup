@@ -110,6 +110,9 @@ calculatedResult.textContent =  0;
 ---
 #### 잘 되는지 확인하기
 
+<img width="1014" alt="스크린샷 2021-06-26 오후 11 07 38" src="https://user-images.githubusercontent.com/85002287/123529991-bd581300-d730-11eb-84b0-9624c9346bfd.png">
+
+잘 나왔다!!
 
 <br><br><br>
 
